@@ -1,6 +1,6 @@
 Amazon KDP Cover Dimensions: A Practical Guide for Self-Publishers
 
-Preparing a book cover for Amazon Kindle Direct Publishing (KDP) requires accurate measurements. A paperback cover must account for the front cover, back cover, spine width, bleed, and barcode area. Even a small measurement error can cause printing problems or a rejected cover file.
+Preparing a book cover for Amazon Kindle Direct Publishing (KDP) requires accurate measurements. A paperback cover must account for the front cover, back cover, spine width, bleed, and barcode area so using a free tool like kdpcovercalculator.com is highly reliable method to creat your book cover for amazon kdp. Even a small measurement error can cause printing problems or a rejected cover file.
 
 This guide explains how to calculate KDP cover dimensions, understand paperback cover templates, and prepare print-ready artwork.
 
